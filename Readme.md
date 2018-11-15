@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [ScriptRecurrenceForm.ascx](./CS/WebSite/UserForms/ScriptRecurrenceForm.ascx) (VB: [ScriptRecurrenceForm.ascx.vb](./VB/WebSite/UserForms/ScriptRecurrenceForm.ascx.vb))
+* [ScriptRecurrenceForm.ascx.cs](./CS/WebSite/UserForms/ScriptRecurrenceForm.ascx.cs) (VB: [ScriptRecurrenceForm.ascx.vb](./VB/WebSite/UserForms/ScriptRecurrenceForm.ascx.vb))
+<!-- default file list end -->
 # How to customize recurrence part of a client appointment form 
 
 
